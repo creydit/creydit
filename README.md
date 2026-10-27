@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shreyansh Shrivastava
-- 👀 I’m interested in CP, Math and Finance.
-- 🌱 I’m currently pursuing B.Tech in CSE.
+- 👋 Hi, I’m Shreyansh Shrivastava.
+- 👀 I’m interested in Problem Solving, Data Structures and Algorithms, Competitive Programming, Math and Finance.
+- 🌱 I’m currently pursuing B.Tech in CSE at NIT Raipur.
 - 📫 How to reach me shreyw134@gmail.com
